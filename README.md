@@ -1,13 +1,14 @@
 # Hi there :herb: Wellcome to my GitHub :purple_heart:
 
-I have been working for more than 5 years in manual testing.
-I like taking part in all steps of software development cycle and delivering high-quality product to customers!
+:heavy_check_mark: I have been working for more than 5 years in manual testing.
+
+:heavy_check_mark: I like taking part in all steps of software development cycle and delivering high-quality product to customers!
 
 ## 💻 What am I currently up to?
 
 :shamrock:  I’m currently learning automation tools and practices with **QA.GURU**, including:
 
-:heavy_check_mark: Selenide :purple_circle: JUnit :heavy_check_mark: Allure :purple_circle: Jenkins :heavy_check_mark: Gradle :purple_circle: Selenoid
+:green_circle: Selenide :purple_circle: JUnit :green_circle: Allure :purple_circle: Jenkins :green_circle: Gradle :purple_circle: Selenoid
 
 
 ## :sunglasses: When I'm not testing you can find me
