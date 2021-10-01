@@ -4,13 +4,13 @@
 
 :heavy_check_mark: *I like taking part in all steps of software development cycle and delivering high-quality product to customers!*
 
-## 💻 What am I currently up to?
+## What am I currently up to?
 
 :shamrock:  *I’m currently learning automation tools and practices with **QA.GURU**, including:*
 
 :green_circle: *Java* :purple_circle: *Selenide* :green_circle: *Selenoid* :purple_circle: *Gradle* :green_circle: *JUnit5* :purple_circle: *Jenkins* :green_circle: *Allure Reports* :purple_circle: *Allure :green_circle: TestOps* :purple_circle: *Telegram*
 
-## :sunglasses: When I'm not testing you can find me
+## When I'm not testing you can find me
 :mushroom: *Cooking*
 
 :open_book: *Reading*
