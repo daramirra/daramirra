@@ -1,6 +1,6 @@
 # Hi there :herb: Wellcome to my GitHub :purple_heart:
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9152C0&center=true&vCenter=true&lines=I%E2%80%99m+Daria+Lapshinova;QA+engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=9152C0&size=30&center=true&vCenter=true&lines=Daria+Lapshinova;QA+engineer" />
 </p>
 
 :heavy_check_mark: *I’m having a 10+ years of experience in information technology industry. Currently I am working **QA engineer**. I like taking part in all steps of software development cycle and delivering high-quality product to customers!*
@@ -25,11 +25,10 @@
 [<img  alt="daramirra | Instagram" width="30px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png">](https://www.instagram.com/daramira)
 
 ## :bar_chart: My Github Stats
-| <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra-gh&color=blueviolet&style=flat)
-![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra&style=flat-square&color=6C5A9C)
+![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra&style=flat-square&color=9152C0)
 
 
 <!--
