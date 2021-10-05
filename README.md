@@ -1,5 +1,4 @@
 # Hi there :herb: Wellcome to my GitHub :purple_heart:
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=9152C0&center=true&vCenter=true&lines=I%E2%80%99m+Daria+Lapshinova;QA+engineer" />
 </p>
@@ -7,7 +6,6 @@
 :heavy_check_mark: *I’m having a 10+ years of experience in information technology industry. Currently I am working **QA engineer**. I like taking part in all steps of software development cycle and delivering high-quality product to customers!*
 
 ## What am I currently up to?
-
 :shamrock:  *I’m currently learning automation tools and practices with **QA.GURU**, including:*
 
 :green_circle: *Java* :purple_circle: *Selenide* :green_circle: *Selenoid* :purple_circle: *Gradle* :green_circle: *JUnit5* :purple_circle: *Jenkins* :green_circle: *Allure Reports* :purple_circle: *Allure :green_circle: TestOps* :purple_circle: *Telegram (notifications)*
@@ -31,6 +29,7 @@
 | ------------- | ------------- |
 
 ![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra-gh&color=blueviolet&style=flat)
+![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra&style=flat-square&color=6C5A9C)
 
 
 <!--
