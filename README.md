@@ -29,6 +29,9 @@
 | ------------- | ------------- |
 
 ![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra&style=flat-square&color=9152C0)
+<p align="center">
+  <img src="https://github.com/daramirra/daramirra/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 
 <!--
