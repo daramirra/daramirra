@@ -20,9 +20,9 @@
 :purple_heart: *Watching the Sunset*
 
 ## Contacts
-[<img  alt="daramirra | Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/daramirra)
-[<img  alt="daramirra | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/daramirra) 
-[<img  alt="daramirra | Instagram" width="30px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png">](https://www.instagram.com/daramira)
+[<img title="Github" alt="daramirra | Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/daramirra)
+[<img title="Telegram" alt="daramirra | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/daramirra) 
+[<img title="Instagram" alt="daramirra | Instagram" width="30px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png">](https://www.instagram.com/daramira)
 
 ## :bar_chart: My Github Stats
 | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true" /></a> |
