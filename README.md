@@ -30,19 +30,18 @@
 | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
-<p align="center"> 
-    <a href="https://github.com/daramirra?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/daramirra"/></a>
-  <a href="https://github.com/daramirra/">
-    <img alt="views" title="GitHub profile views" src="https://viewcountxero.000webhostapp.com/"/></a>
-</p>
+![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra-gh&color=blueviolet&style=flat)
 
 
 <!--
 - ⚡ Fun fact: ...
 ![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra-gh&color=blueviolet&style=flat)
+<p align="center"> 
+    <a href="https://github.com/daramirra?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/daramirra"/></a>
+  <a href="https://github.com/daramirra/">
+    <img alt="views" title="GitHub profile views" src="https://viewcountxero.000webhostapp.com/"/></a>
 <a href="https://github.com/daramirra?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/daramirra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-9152C0
+</p>
 -->
