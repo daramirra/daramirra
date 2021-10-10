@@ -24,6 +24,9 @@
 -->
 
 ## When I'm not testing you can find me
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 :mushroom: *Cooking*
 
 :open_book: *Reading*
