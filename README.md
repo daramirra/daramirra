@@ -9,7 +9,7 @@
 :shamrock:  *I’m currently learning automation tools and practices with **QA.GURU**, including:*
 
 :green_circle: *Java* :purple_circle: *Selenide* :green_circle: *Selenoid* :purple_circle: *Gradle* :green_circle: *JUnit5* :purple_circle: *Jenkins* :green_circle: *Allure Reports* :purple_circle: *Allure :green_circle: TestOps* :purple_circle: *Telegram (notifications)*
-
+<!--
 ## My projects
 <p align="center">
   <a href="https://github.com/daramirra/mmc_mos_ru_auth_rvg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mmc_mos_ru_auth_rvg&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a> 
@@ -19,7 +19,7 @@
 <p align="left">
   <a href="https://github.com/daramirra?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-20793B?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-
+-->
 ## When I'm not testing you can find me
 :mushroom: *Cooking*
 
