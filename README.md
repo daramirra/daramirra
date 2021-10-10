@@ -12,12 +12,12 @@
 
 ## My projects
 <p align="center">
-  <a href="https://github.com/daramirra/mmc_mos_ru_auth_rvg"><img title="UI tests" width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mmc_mos_ru_auth_rvg&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a> 
+  <a href="https://github.com/daramirra/mmc_mos_ru_auth_rvg"><img title="UI automated tests" width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mmc_mos_ru_auth_rvg&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a> 
+    <a href="https://github.com/daramirra/reqres_in_tests"><img title="API tests with Rest-assured" width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=reqres_in_tests&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a>
+  <a href="https://github.com/daramirra/mobile_tests"><img title="Mobile tests with Appium" width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mobile_tests&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a>
   </p>
-  <!--
-    <a href="https://github.com/daramirra/mmc_mos_ru_auth_rvg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mmc_mos_ru_auth_rvg&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a>
-    <a href="https://github.com/daramirra/mmc_mos_ru_auth_rvg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mmc_mos_ru_auth_rvg&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a>
-</p>
+  
+<!--
 <p align="left">
   <a href="https://github.com/daramirra?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-20793B?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
