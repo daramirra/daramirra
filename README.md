@@ -10,6 +10,18 @@
 
 :green_circle: *Java* :purple_circle: *Selenide* :green_circle: *Selenoid* :purple_circle: *Gradle* :green_circle: *JUnit5* :purple_circle: *Jenkins* :green_circle: *Allure Reports* :purple_circle: *Allure :green_circle: TestOps* :purple_circle: *Telegram (notifications)*
 
+## My projects
+
+<p align="center">
+  <a href="https://github.com/daramirra/mmc_mos_ru_auth_rvg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mmc_mos_ru_auth_rvg&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a>
+    <a href="https://github.com/daramirra/mmc_mos_ru_auth_rvg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mmc_mos_ru_auth_rvg&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a>
+    <a href="https://github.com/daramirra/mmc_mos_ru_auth_rvg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mmc_mos_ru_auth_rvg&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/daramirra?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-20793B?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
 ## When I'm not testing you can find me
 :mushroom: *Cooking*
 
@@ -25,7 +37,7 @@
 [<img title="Instagram" alt="daramirra | Instagram" width="30px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png">](https://www.instagram.com/daramira)
 
 ## :bar_chart: My Github Stats
-| <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra&style=flat-square&color=9152C0)
