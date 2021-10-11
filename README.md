@@ -20,8 +20,9 @@
   <a href="https://github.com/daramirra?tab=repositories&sort=stargazers"><img width="15%" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-20793B?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
 
-### :bar_chart: Languages and tools 
 <p align="right">
+  <h2>Languages and tools<img align="right" src="https://github.com/djswain9/djswain9/blob/main/gif/stats.webp" height="25" width="30" /></h2>
+<br>
 <a><img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a>
 </p>
 
@@ -41,10 +42,13 @@
   <code><img width="5%" title="Github" src="https://starchenkov.pro/qa-guru/img/skills/Github.svg"></code>
   <code><img width="5%" title="Jenkins" src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg"></code>
   <code><img width="5%" title="Docker" src="https://starchenkov.pro/qa-guru/img/skills/Docker.svg"></code>
+  <code><img width="5%" title="Rest-Assured" src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg"></code>
+  <code><img width="5%" title="Appium" src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg"></code>
+  <code><img width="5%" title="Browserstack" src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg"></code>
  
 </p>
 
-### When I'm not testing you can find me
+#### When I'm not testing you can find me
 <p align="right">
 <a><img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true"/></a>
 </p>
@@ -66,6 +70,11 @@
 
 ![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra&style=flat-square&color=9152C0)
 
+<hr>
+<p align="center">
+  <img src="https://github.com/daramirra/daramirra/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+<hr>
 
 <!--
 - ⚡
