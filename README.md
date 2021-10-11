@@ -49,12 +49,12 @@
  
 </p>
 
-### When I'm not testing you can find me
+### When I'm not testing you can find me:
 <p align="right">
 <a><img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true"/></a>
 </p>
 
-<img width="70%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="65%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 :mushroom:  <code><strong>*Cooking*</strong></code>
 
@@ -70,7 +70,11 @@
 [<img title="Instagram" alt="daramirra | Instagram" width="30px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png">](https://www.instagram.com/daramira)
 
 ![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra&style=flat-square&color=9152C0)
-
+<br>
+<hr>
+<p align="center">
+  <img src="https://github.com/djswain09/djswain09/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 <!--
 - ⚡
