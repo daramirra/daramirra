@@ -56,13 +56,13 @@
 
 <img width="70%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-:mushroom: *Cooking*
+:mushroom:  <code><strong>*Cooking*</strong></code>
 
-:open_book: *Reading*
+:open_book:  <code><strong>*Reading*</strong></code>
 
-:headphones: *Listening the Music*
+:headphones: <code><strong>*Listening the Music*</strong></code> 
 
-:purple_heart: *Watching the Sunset*
+:purple_heart:  <code><strong>*Watching the Sunset*</strong></code>
 
 ## Contacts
 [<img title="Github" alt="daramirra | Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/daramirra)
@@ -74,21 +74,8 @@
 
 <!--
 - ⚡
-![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra-gh&color=blueviolet&style=flat)
-<p align="center"> 
-    <a href="https://github.com/daramirra?tab=ssitories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/daramirra"/></a>
-  <a href="https://github.com/daramirra/">
-    <img alt="views" title="GitHub profile views" src="https://viewcountxero.000webhostapp.com/"/></a>
-<a href="https://github.com/daramirra?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/daramirra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
 | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&line_height=20&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-</p>
 -->
