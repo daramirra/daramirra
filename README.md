@@ -15,17 +15,41 @@
   <a href="https://github.com/daramirra/mmc_mos_ru_auth_rvg"><img title="UI automated tests" width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mmc_mos_ru_auth_rvg&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a> 
     <a href="https://github.com/daramirra/reqres_in_tests"><img title="API tests with Rest-assured" width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=reqres_in_tests&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a>
   <a href="https://github.com/daramirra/mobile_tests"><img title="Mobile tests with Appium" width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mobile_tests&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a>
+    </p>
+<p align="right">
+  <a href="https://github.com/daramirra?tab=repositories&sort=stargazers"><img width="15%" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-20793B?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
-  
-<!--
-<p align="left">
-  <a href="https://github.com/daramirra?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-20793B?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+### :bar_chart: Languages and tools 
+<p align="right">
+<a><img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a>
 </p>
--->
 
-## When I'm not testing you can find me
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<p  align="left"
+   
+  <code><img width="5%" title="IntelliJ IDEA" src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg"></code>
+  <code><img width="5%" title="Java" src="https://starchenkov.pro/qa-guru/img/skills/Java.svg"></code>
+  <code><img width="5%" title="Selenium" src="https://starchenkov.pro/qa-guru/img/skills/Selenium.svg"></code>
+  <code><img width="5%" title="Selenide" src="https://starchenkov.pro/qa-guru/img/skills/Selenide.svg"></code>
+  <br />
+  <code><img width="5%" title="Allure Report" src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg"></code>
+  <code><img width="5%" title="Allure TestOps" src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg"></code>
+  <code><img width="5%" title="Gradle" src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg"></code>
+  <code><img width="5%" title="JUnit5" src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg"></code>
+  <br />
+  <code><img width="5%" title="Github" src="https://starchenkov.pro/qa-guru/img/skills/Github.svg"></code>
+  <code><img width="5%" title="Jenkins" src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg"></code>
+  <code><img width="5%" title="Docker" src="https://starchenkov.pro/qa-guru/img/skills/Docker.svg"></code>
+ 
+</p>
+
+### When I'm not testing you can find me
+<p align="right">
+<a><img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true"/></a>
+</p>
+
+<img width="70%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 :mushroom: *Cooking*
 
@@ -40,20 +64,14 @@
 [<img title="Telegram" alt="daramirra | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/daramirra) 
 [<img title="Instagram" alt="daramirra | Instagram" width="30px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png">](https://www.instagram.com/daramira)
 
-## :bar_chart: My Github Stats
-
-<p align="center">
-<a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a> 
-<a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&line_height=20&layout=compact&theme=buefy&hide_border=true" /></a>
-</p>
-
 ![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra&style=flat-square&color=9152C0)
 
+
 <!--
-- ⚡ Fun fact: ...
+- ⚡
 ![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra-gh&color=blueviolet&style=flat)
 <p align="center"> 
-    <a href="https://github.com/daramirra?tab=repositories&sort=stargazers">
+    <a href="https://github.com/daramirra?tab=ssitories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/daramirra"/></a>
   <a href="https://github.com/daramirra/">
     <img alt="views" title="GitHub profile views" src="https://viewcountxero.000webhostapp.com/"/></a>
@@ -67,19 +85,5 @@
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 -->
