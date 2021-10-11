@@ -33,22 +33,23 @@
   <code><img width="5%" title="Java" src="https://starchenkov.pro/qa-guru/img/skills/Java.svg"></code>
   <code><img width="5%" title="Selenium" src="https://starchenkov.pro/qa-guru/img/skills/Selenium.svg"></code>
   <code><img width="5%" title="Selenide" src="https://starchenkov.pro/qa-guru/img/skills/Selenide.svg"></code>
-  <br />
   <code><img width="5%" title="Allure Report" src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg"></code>
+  <br />
   <code><img width="5%" title="Allure TestOps" src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg"></code>
   <code><img width="5%" title="Gradle" src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg"></code>
   <code><img width="5%" title="JUnit5" src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg"></code>
-  <br />
   <code><img width="5%" title="Github" src="https://starchenkov.pro/qa-guru/img/skills/Github.svg"></code>
   <code><img width="5%" title="Jenkins" src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg"></code>
+  <br />
   <code><img width="5%" title="Docker" src="https://starchenkov.pro/qa-guru/img/skills/Docker.svg"></code>
   <code><img width="5%" title="Rest-Assured" src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg"></code>
   <code><img width="5%" title="Appium" src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg"></code>
   <code><img width="5%" title="Browserstack" src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg"></code>
+  <code><img width="5%" title="Gitlab" src="https://about.gitlab.com/images/press/press-kit-icon.svg"></code>
  
 </p>
 
-#### When I'm not testing you can find me
+### When I'm not testing you can find me
 <p align="right">
 <a><img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true"/></a>
 </p>
