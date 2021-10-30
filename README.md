@@ -8,7 +8,7 @@
 ## What am I currently up to?
 :shamrock:  *I’m currently learning automation tools and practices with **[QA.GURU](https://qa.guru)**, including:*
 
-:green_circle: *Java* :purple_circle: *Selenide* :green_circle: *Selenoid* :purple_circle: *Gradle* :green_circle: *JUnit5* :purple_circle: *Jenkins* :green_circle: *Allure Reports* :purple_circle: *Allure :green_circle: TestOps* :purple_circle: *Telegram (notifications)*
+:green_circle: *Java* :purple_circle: *Selenide* :green_circle: *Selenoid* :purple_circle: *Gradle* :green_circle: *JUnit5* :purple_circle: *Jenkins* :green_circle: *Allure Reports* :purple_circle: *Allure TestOps* :green_circle: *Telegram (notifications)*
 
 <div align="left">
 <h2><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> My projects</h2>
