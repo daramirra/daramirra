@@ -11,7 +11,7 @@
 :green_circle: *Java* :purple_circle: *Selenide* :green_circle: *Selenoid* :purple_circle: *Gradle* :green_circle: *JUnit5* :purple_circle: *Jenkins* :green_circle: *Allure Reports* :purple_circle: *Allure TestOps* :green_circle: *Telegram (notifications)*
 
 <div align="left">
-<h2><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> My projects</h2>
+<h2><img src='images/giphy.webp' width='32px'> My projects</h2>
 </div>
 <p align="center">
     <a href="https://github.com/daramirra/qaGuruDiploma"><img title="UI and API automated tests" width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=qaGuruDiploma&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a>
@@ -25,7 +25,7 @@
   <a href="https://github.com/daramirra?tab=repositories&sort=stargazers"><img width="15%" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-20793B?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
 <p align="right">
-  <h2>Languages and tools<img align="right" src="https://github.com/djswain9/djswain9/blob/main/gif/stats.webp" height="25" width="30" /></h2>
+  <h2>Languages and tools<img align="right" src="images/stats.webp" height="25" width="30" /></h2>
 <br>
 <a><img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a>
 </p>
@@ -57,7 +57,7 @@
 <a><img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true"/></a>
 </p>
 
-<img width="65%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="65%" align="right" alt="Github" src="images/git-header.svg"/>
 
 :mushroom:  <code><strong>*Cooking*</strong></code>
 
