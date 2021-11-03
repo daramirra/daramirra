@@ -25,7 +25,7 @@
   <a href="https://github.com/daramirra?tab=repositories&sort=stargazers"><img width="15%" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-20793B?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
 <p align="right">
-  <h2>Languages and tools<img align="right" src="images/stats.webp" height="25" width="30" /></h2>
+  <h2>Languages and tools<img align="right" title="My Github Stats" src="images/stats.webp" height="25" width="30" /></h2>
 <br>
 <a><img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a>
 </p>
