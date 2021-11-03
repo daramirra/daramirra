@@ -11,7 +11,7 @@
 :green_circle: *Java* :purple_circle: *Selenide* :green_circle: *Selenoid* :purple_circle: *Gradle* :green_circle: *JUnit5* :purple_circle: *Jenkins* :green_circle: *Allure Reports* :purple_circle: *Allure TestOps* :green_circle: *Telegram (notifications)*
 
 <div align="left">
-<h2><img src='images/giphy.webp' width='32px'> My projects</h2>
+<h2><img src='images/daramirra_giphy.webp' width='32px'> My projects</h2>
 </div>
 <p align="center">
     <a href="https://github.com/daramirra/qaGuruDiploma"><img title="UI and API automated tests" width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=qaGuruDiploma&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a>
@@ -25,30 +25,30 @@
   <a href="https://github.com/daramirra?tab=repositories&sort=stargazers"><img width="15%" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-20793B?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
 <p align="right">
-  <h2>Languages and tools<img align="right" title="My Github Stats" src="images/stats.webp" height="25" width="30" /></h2>
+  <h2>Languages and tools<img align="right" title="My Github Stats" src="images/daramirra_stats.webp" height="25" width="30" /></h2>
 <br>
 <a><img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a>
 </p>
 
 <p  align="left"
    
-  <code><img width="5%" title="IntelliJ IDEA" src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg"></code>
-  <code><img width="5%" title="Java" src="https://starchenkov.pro/qa-guru/img/skills/Java.svg"></code>
-  <code><img width="5%" title="Selenium" src="https://starchenkov.pro/qa-guru/img/skills/Selenium.svg"></code>
-  <code><img width="5%" title="Selenide" src="https://starchenkov.pro/qa-guru/img/skills/Selenide.svg"></code>
-  <code><img width="5%" title="Allure Report" src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg"></code>
+  <code><img width="5%" title="IntelliJ IDEA" src="images/daramirra_Intelij_IDEA.svg"></code>
+  <code><img width="5%" title="Java" src="images/daramirra_Java.svg"></code>
+  <code><img width="5%" title="Selenium" src="images/daramirra_Selenium.svg"></code>
+  <code><img width="5%" title="Selenide" src="images/daramirra_selenide-logo.svg "></code>
+  <code><img width="5%" title="Allure Report" src="images/daramirra_allureReport.svg"></code>
   <br />
-  <code><img width="5%" title="Allure TestOps" src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg"></code>
-  <code><img width="5%" title="Gradle" src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg"></code>
-  <code><img width="5%" title="JUnit5" src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg"></code>
-  <code><img width="5%" title="Github" src="https://starchenkov.pro/qa-guru/img/skills/Github.svg"></code>
-  <code><img width="5%" title="Jenkins" src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg"></code>
+  <code><img width="5%" title="Allure TestOps" src="images/daramirra_allureTestOPS.svg"></code>
+  <code><img width="5%" title="Gradle" src="images/daramirra_Gradle.svg"></code>
+  <code><img width="5%" title="JUnit5" src="images/daramirra_junit5.svg"></code>
+  <code><img width="5%" title="Github" src="images/daramirra_Github.svg"></code>
+  <code><img width="5%" title="Jenkins" src="images/daramirra_Jenkins.svg"></code>
   <br />
-  <code><img width="5%" title="Docker" src="https://starchenkov.pro/qa-guru/img/skills/Docker.svg"></code>
-  <code><img width="5%" title="Rest-Assured" src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg"></code>
-  <code><img width="5%" title="Appium" src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg"></code>
-  <code><img width="5%" title="Browserstack" src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg"></code>
-  <code><img width="5%" title="Gitlab" src="https://about.gitlab.com/images/press/press-kit-icon.svg"></code>
+  <code><img width="5%" title="Docker" src="images/daramirra_Docker.svg"></code>
+  <code><img width="5%" title="Rest-Assured" src="images/daramirra_RESTAssured.svg"></code>
+  <code><img width="5%" title="Appium" src="images/daramirra_Appium.svg"></code>
+  <code><img width="5%" title="Browserstack" src="images/daramirra_Browserstack.svg"></code>
+  <code><img width="5%" title="Gitlab" src="images/daramirra_gitlab.svg"></code>
  
 </p>
 
@@ -57,7 +57,7 @@
 <a><img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true"/></a>
 </p>
 
-<img width="65%" align="right" alt="Github" src="images/git-header.svg"/>
+<img width="65%" align="right" alt="Github" src="images/daramirra_git-header.svg"/>
 
 :mushroom:  <code><strong>*Cooking*</strong></code>
 
