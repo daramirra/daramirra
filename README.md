@@ -11,21 +11,21 @@
 :green_circle: *Java* :purple_circle: *Selenide* :green_circle: *Selenoid* :purple_circle: *Gradle* :green_circle: *JUnit5* :purple_circle: *Jenkins* :green_circle: *Allure Reports* :purple_circle: *Allure TestOps* :green_circle: *Telegram (notifications)*
 
 <div align="left">
-<h2><img src='images/daramirra_giphy.webp' width='32px'> My projects </h2>
+<h2><img src="images/daramirra_giphy.webp" width="32" height="32"> My projects </h2>
 </div>
 <p align="center">
-    <a href="https://github.com/daramirra/qaGuruDiploma"><img title="UI and API automated tests" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=qaGuruDiploma&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="qaGuruDiploma"  width="250" height="192px" ></a>
-  <a href="https://github.com/daramirra/mobile_appium"><img title="Mobile automated tests with Appium" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mobile_appium&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mobile_tests" width="250" height="192px" ></a>
-  <a href="https://github.com/qa-guru/allure-testops-tests/pull/22"><img title="Pull request on Allure TestOps automated testing project" width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=allure-testops-tests&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="allure-testops-tests"  height="192px" ></a>
-  <a href="https://github.com/daramirra/mmc_mos_ru_auth_rvg"><img title="UI automated tests" width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mmc_mos_ru_auth_rvg&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a> 
-      <a href="https://github.com/daramirra/reqres_in_tests"><img title="API automated tests with Rest-assured" width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=reqres_in_tests&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="reqres_in_tests"  height="192px" ></a> 
-  <a href="https://github.com/daramirra/mobile_browserstack"><img title="Mobile automated tests with BrowserStack" width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mobile_browserstack&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mobile-browserstack"  height="192px" ></a>
+  <a href="https://github.com/daramirra/qaGuruDiploma"><img width="250" title="UI and API automated tests" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=qaGuruDiploma&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="qaGuruDiploma"></a>
+  <a href="https://github.com/daramirra/mobile_appium"><img width="250" title="Mobile automated tests with Appium" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mobile_appium&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mobile_tests"></a>
+  <a href="https://github.com/qa-guru/allure-testops-tests/pull/22"><img width="250" title="Pull request on Allure TestOps automated testing project"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=allure-testops-tests&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="allure-testops-tests"></a>
+  <a href="https://github.com/daramirra/mmc_mos_ru_auth_rvg"><img width="250" title="UI automated tests" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mmc_mos_ru_auth_rvg&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"></a> 
+  <a href="https://github.com/daramirra/reqres_in_tests"><img width="250" title="API automated tests with Rest-assured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=reqres_in_tests&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="reqres_in_tests"></a> 
+  <a href="https://github.com/daramirra/mobile_browserstack"><img width="250" title="Mobile automated tests with BrowserStack" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mobile_browserstack&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mobile-browserstack"></a>
 </p>
 <p align="right">
   <a href="https://github.com/daramirra?tab=repositories&sort=stargazers"><img width="15%" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-20793B?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
 <p align="right">
-  <h2><img src='images/daramirra_contact3.gif' height="30" width="35"> Languages and tools<img align="right" title="My Github Stats" src="images/daramirra_stats.webp" height="25" width="30" /></h2>
+  <h2><img width="45" src="images/daramirra_contact3.gif">Languages and tools<img align="right" title="My Github Stats" width="35"  src="images/daramirra_stats.webp"></h2>
 <br>
 <a><img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a>
 </p>
@@ -36,26 +36,27 @@
   <code><img width="5%" title="Java" src="images/daramirra_Java.svg"></code>
   <code><img width="5%" title="Selenium" src="images/daramirra_Selenium.svg"></code>
   <code><img width="5%" title="Selenide" src="images/daramirra_selenide-logo.svg "></code>
-  <code><img width="5%" title="Allure Report" src="images/daramirra_allureReport.svg"></code>
-  
-  <code><img width="5%" title="Allure TestOps" src="images/daramirra_allureTestOPS.svg"></code>
-  <code><img width="5%" title="Gradle" src="images/daramirra_Gradle.svg"></code>
-  <code><img width="5%" title="JUnit5" src="images/daramirra_junit5.svg"></code>
-  <code><img width="5%" title="Github" src="images/daramirra_Github.svg"></code>
-  <code><img width="5%" title="Jenkins" src="images/daramirra_Jenkins.svg"></code>
-  
-  <code><img width="5%" title="Docker" src="images/daramirra_Docker.svg"></code>
   <code><img width="5%" title="Rest-Assured" src="images/daramirra_RESTAssured.svg"></code>
+  
   <code><img width="5%" title="Appium" src="images/daramirra_Appium.svg"></code>
   <code><img width="5%" title="Browserstack" src="images/daramirra_Browserstack.svg"></code>
-  <code><img width="5%" title="Gitlab" src="images/daramirra_gitlab.svg"></code>
+  <code><img width="5%" title="Gradle" src="images/daramirra_Gradle.svg"></code>
+  <code><img width="5%" title="JUnit5" src="images/daramirra_junit5.svg"></code>
+  <code><img width="5%" title="Jenkins" src="images/daramirra_Jenkins.svg"></code>
+  
+  <code><img width="5%" title="Selenoid" src="images/daramirra_selenoid.svg"></code>
+  <code><img width="5%" title="Docker" src="images/daramirra_Docker.svg"></code>
+  <code><img width="5%" title="Allure TestOps" src="images/daramirra_allureTestOPS.svg"></code>
+  <code><img width="5%" title="Allure Report" src="images/daramirra_allureReport.svg"></code>
+  <code><img width="5%" title="Github" src="images/daramirra_Github.svg"></code>
+<!-- <code><img width="5%" title="Gitlab" src="images/daramirra_gitlab.svg"></code> -->
  
 </p>
 
 ### :open_umbrella: When I'm not testing you can find me:
 <p align="right">
   <a>
-    <img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true"/>
+    <img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true">
   </a>
 </p>
 
@@ -72,7 +73,7 @@
 :purple_heart:  <code><strong>*Watching the sunset*</strong></code>
 
 <div align="left">
-<h2><img src='images/daramirra_spin.gif' height="28" width="28"> Contacts </h2>
+<h2><img width="30" src="images/daramirra_spin.gif"> Contacts </h2>
 </div>
 
 [<img title="Github" alt="daramirra | Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/daramirra)
