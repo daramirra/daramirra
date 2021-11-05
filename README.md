@@ -56,7 +56,7 @@
 ### :open_umbrella: When I'm not testing you can find me:
 <p align="right">
   <a>
-    <img width="40%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true">
+    <img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true">
   </a>
 </p>
 
