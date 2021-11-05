@@ -59,7 +59,7 @@
   </a>
 </p>
 
-<img width="65%" align="right" alt="Github" src="images/daramirra_git-header.svg"/>
+<img width="65%" align="right" alt="Github" src="images/daramirra_git-headerr.svg"/>
 
 :mushroom:  <code><strong>*Cooking*</strong></code>
 
