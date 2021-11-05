@@ -1,6 +1,6 @@
 # Hi there :herb: Wellcome to my GitHub :purple_heart:
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9152C0&size=30&center=true&vCenter=true&lines=Daria+Lapshinova;QA+engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=9152C0&size=30&center=true&vCenter=true&lines=Daria+Lapshinova;QA+engineer">
 </p>
 
 :heavy_check_mark: *I’m having a 10+ years of experience in information technology industry. Currently I am working **QA engineer**. I like to be involved in all stages of software development and provide customers with a quality product!*
@@ -11,7 +11,7 @@
 :green_circle: *Java* :purple_circle: *Selenide* :green_circle: *Selenoid* :purple_circle: *Gradle* :green_circle: *JUnit5* :purple_circle: *Jenkins* :green_circle: *Allure Reports* :purple_circle: *Allure TestOps* :green_circle: *Telegram (notifications)*
 
 <div align="left">
-<h2><img src="images/daramirra_giphy.webp" width="32" height="32"> My projects </h2>
+<h2><img width="32" src="images/daramirra_giphy.webp"> My projects </h2>
 </div>
 <p align="center">
   <a href="https://github.com/daramirra/qaGuruDiploma"><img width="250" title="UI and API automated tests" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=qaGuruDiploma&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="qaGuruDiploma"></a>
@@ -22,12 +22,12 @@
   <a href="https://github.com/daramirra/mobile_browserstack"><img width="250" title="Mobile automated tests with BrowserStack" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mobile_browserstack&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mobile-browserstack"></a>
 </p>
 <p align="right">
-  <a href="https://github.com/daramirra?tab=repositories&sort=stargazers"><img width="15%" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-20793B?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/daramirra?tab=repositories&sort=stargazers"><img width="140" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-20793B?style=for-the-badge&logoColor=white&logo=repo"></a>
   </p>
 <p align="right">
   <h2><img width="45" src="images/daramirra_contact3.gif">Languages and tools<img align="right" title="My Github Stats" width="35"  src="images/daramirra_stats.webp"></h2>
 <br>
-<a><img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a>
+<a><img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"></a>
 </p>
 
 <p  align="left">
@@ -56,7 +56,7 @@
 ### :open_umbrella: When I'm not testing you can find me:
 <p align="right">
   <a>
-    <img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true">
+    <img width="40%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true">
   </a>
 </p>
 
