@@ -72,7 +72,7 @@
 :purple_heart:  <code><strong>*Watching the sunset*</strong></code>
 
 <div align="left">
-<h2><img src='images/daramirra_spin.gif' height="30" width="30"> Contacts </h2>
+<h2><img src='images/daramirra_spin.gif' height="28" width="28"> Contacts </h2>
 </div>
 
 [<img title="Github" alt="daramirra | Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/daramirra)
