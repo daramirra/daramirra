@@ -65,11 +65,11 @@
 
 :open_book:  <code><strong>*Reading*</strong></code>
 
-:headphones: <code><strong>*Listening the Music*</strong></code> 
+:headphones: <code><strong>*Listening the music*</strong></code> 
 
 :herb: <code><strong>*Taking care of plants*</strong></code> 
 
-:purple_heart:  <code><strong>*Watching the Sunset*</strong></code>
+:purple_heart:  <code><strong>*Watching the sunset*</strong></code>
 
 ## Contacts
 [<img title="Github" alt="daramirra | Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/daramirra)
