@@ -11,7 +11,7 @@
 :green_circle: *Java* :purple_circle: *Selenide* :green_circle: *Selenoid* :purple_circle: *Gradle* :green_circle: *JUnit5* :purple_circle: *Jenkins* :green_circle: *Allure Reports* :purple_circle: *Allure TestOps* :green_circle: *Telegram (notifications)*
 
 <div align="left">
-<h2><img src='images/daramirra_giphy.webp' width='32px'> My projects</h2>
+<h2><img src='images/daramirra_giphy.webp' width='32px'> My projects </h2>
 </div>
 <p align="center">
     <a href="https://github.com/daramirra/qaGuruDiploma"><img title="UI and API automated tests" width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=qaGuruDiploma&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a>
@@ -30,20 +30,20 @@
 <a><img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a>
 </p>
 
-<p  align="left"
+<p  align="left">
    
   <code><img width="5%" title="IntelliJ IDEA" src="images/daramirra_Intelij_IDEA.svg"></code>
   <code><img width="5%" title="Java" src="images/daramirra_Java.svg"></code>
   <code><img width="5%" title="Selenium" src="images/daramirra_Selenium.svg"></code>
   <code><img width="5%" title="Selenide" src="images/daramirra_selenide-logo.svg "></code>
   <code><img width="5%" title="Allure Report" src="images/daramirra_allureReport.svg"></code>
-  <br />
+  
   <code><img width="5%" title="Allure TestOps" src="images/daramirra_allureTestOPS.svg"></code>
   <code><img width="5%" title="Gradle" src="images/daramirra_Gradle.svg"></code>
   <code><img width="5%" title="JUnit5" src="images/daramirra_junit5.svg"></code>
   <code><img width="5%" title="Github" src="images/daramirra_Github.svg"></code>
   <code><img width="5%" title="Jenkins" src="images/daramirra_Jenkins.svg"></code>
-  <br />
+  
   <code><img width="5%" title="Docker" src="images/daramirra_Docker.svg"></code>
   <code><img width="5%" title="Rest-Assured" src="images/daramirra_RESTAssured.svg"></code>
   <code><img width="5%" title="Appium" src="images/daramirra_Appium.svg"></code>
@@ -54,7 +54,9 @@
 
 ### :open_umbrella: When I'm not testing you can find me:
 <p align="right">
-<a><img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true"/></a>
+  <a>
+    <img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true"/>
+  </a>
 </p>
 
 <img width="65%" align="right" alt="Github" src="images/daramirra_git-header.svg"/>
@@ -64,6 +66,8 @@
 :open_book:  <code><strong>*Reading*</strong></code>
 
 :headphones: <code><strong>*Listening the Music*</strong></code> 
+
+:herb: <code><strong>*Taking care of plants*</strong></code> 
 
 :purple_heart:  <code><strong>*Watching the Sunset*</strong></code>
 
