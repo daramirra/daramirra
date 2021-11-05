@@ -79,7 +79,9 @@
 ![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra&style=flat-square&color=9152C0)
 <br>
 <hr>
-
+<p align="center">
+  <img src="https://github.com/djswain09/djswain09/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 <!--
 - ⚡
