@@ -14,8 +14,8 @@
 <h2><img src='images/daramirra_giphy.webp' width='32px'> My projects </h2>
 </div>
 <p align="center">
-    <a href="https://github.com/daramirra/qaGuruDiploma"><img title="UI and API automated tests" width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=qaGuruDiploma&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a>
-  <a href="https://github.com/daramirra/mobile_appium"><img title="Mobile automated tests with Appium" width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mobile_appium&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mobile_tests"  height="192px" ></a>
+    <a href="https://github.com/daramirra/qaGuruDiploma"><img title="UI and API automated tests" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=qaGuruDiploma&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="qaGuruDiploma"  width="250" height="192px" ></a>
+  <a href="https://github.com/daramirra/mobile_appium"><img title="Mobile automated tests with Appium" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mobile_appium&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mobile_tests" width="250" height="192px" ></a>
   <a href="https://github.com/qa-guru/allure-testops-tests/pull/22"><img title="Pull request on Allure TestOps automated testing project" width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=allure-testops-tests&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="allure-testops-tests"  height="192px" ></a>
   <a href="https://github.com/daramirra/mmc_mos_ru_auth_rvg"><img title="UI automated tests" width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=mmc_mos_ru_auth_rvg&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="mmc_mos_ru_auth_rvg"  height="192px" ></a> 
       <a href="https://github.com/daramirra/reqres_in_tests"><img title="API automated tests with Rest-assured" width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=daramirra&repo=reqres_in_tests&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="reqres_in_tests"  height="192px" ></a> 
@@ -25,7 +25,7 @@
   <a href="https://github.com/daramirra?tab=repositories&sort=stargazers"><img width="15%" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-20793B?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
 <p align="right">
-  <h2>Languages and tools<img align="right" title="My Github Stats" src="images/daramirra_stats.webp" height="25" width="30" /></h2>
+  <h2><img src='images/daramirra_contact3.gif' height="30" width="35"> Languages and tools<img align="right" title="My Github Stats" src="images/daramirra_stats.webp" height="25" width="30" /></h2>
 <br>
 <a><img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a>
 </p>
@@ -71,7 +71,10 @@
 
 :purple_heart:  <code><strong>*Watching the sunset*</strong></code>
 
-## Contacts
+<div align="left">
+<h2><img src='images/daramirra_spin.gif' height="30" width="30"> Contacts </h2>
+</div>
+
 [<img title="Github" alt="daramirra | Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/daramirra)
 [<img title="Telegram" alt="daramirra | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/daramirra) 
 [<img title="Instagram" alt="daramirra | Instagram" width="30px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png">](https://www.instagram.com/daramira)
