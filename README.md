@@ -84,7 +84,7 @@
 <br>
 <hr>
 <p align="center">
-  <img src="https://github.com/djswain09/djswain09/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/daramirra/daramirra/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <!--
