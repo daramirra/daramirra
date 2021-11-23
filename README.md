@@ -1,6 +1,6 @@
 # Hi there :herb: Wellcome to my GitHub :purple_heart:
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9152C0&font=cursive&size=30&center=true&vCenter=true&lines=Daria+Lapshinova;QA+engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9152C0&font=Knewave&size=35&center=true&vCenter=true&lines=Daria+Lapshinova;QA+engineer">
 </p>
 
 :heavy_check_mark: *I’m having a 10+ years of experience in information technology industry. Currently I am working **QA engineer**. I like to be involved in all stages of software development and provide customers with a quality product!*
