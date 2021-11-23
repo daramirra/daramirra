@@ -1,6 +1,6 @@
 # Hi there :herb: Wellcome to my GitHub :purple_heart:
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9152C0&size=30&center=true&vCenter=true&lines=Daria+Lapshinova;QA+engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9152C0&font=cursive&size=30&center=true&vCenter=true&lines=Daria+Lapshinova;QA+engineer">
 </p>
 
 :heavy_check_mark: *I’m having a 10+ years of experience in information technology industry. Currently I am working **QA engineer**. I like to be involved in all stages of software development and provide customers with a quality product!*
@@ -60,7 +60,7 @@
   </a>
 </p>
 
-<img width="65%" align="right" alt="Github" src="images/daramirra_git-headerr.svg"/>
+<img width="65%" title="Кто копирует, ошибок не допускает. Однако мастерство постигается через ошибки" align="right" alt="Github" src="images/daramirra_git-headerr.svg"/>
 
 :mushroom:  <code><strong>*Cooking*</strong></code>
 
@@ -87,10 +87,12 @@
   <img src="https://github.com/daramirra/daramirra/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9152C0&font=cursive&size=25&center=true&vCenter=true&lines=Choose+not+a+life+of+imitation">
+</p>
+
 <!--
-- ⚡
+- ⚡ 
 | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&line_height=20&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 -->
