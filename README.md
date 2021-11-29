@@ -80,7 +80,11 @@
 [<img title="Telegram" alt="daramirra | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/daramirra) 
 [<img title="Instagram" alt="daramirra | Instagram" width="30px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png">](https://www.instagram.com/daramira)
 
-![daramirra's view stats](https://komarev.com/ghpvc/?username=daramirra&style=flat-square&color=9152C0)
+<p align="left">
+<a href="https://komarev.com/ghpvc/?username=daramirra&style=flat&color=9152C0&label=Hello%20Visitors!">
+  <img src="https://komarev.com/ghpvc/?username=daramirra&style=flat&color=9152C0&label=Hello%20Visitors!"/>
+</a>
+</p>
 <br>
 <hr>
 <p align="center">
