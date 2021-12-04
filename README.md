@@ -92,8 +92,8 @@
 [<img title="Instagram" alt="daramirra | Instagram" width="30px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png">](https://www.instagram.com/daramira)
 
 <p align="left">
-<a href="https://komarev.com/ghpvc/?username=daramirra&style=flat&color=6C81DF&label=Hello%20Visitors!">
-  <img src="https://komarev.com/ghpvc/?username=daramirra&style=flat&color=6C81DF&label=Hello%20Visitors!"/>
+<a href="https://komarev.com/ghpvc/?username=daramirra&style=flat&color=6A54DF&label=Hello%20Visitors!">
+  <img src="https://komarev.com/ghpvc/?username=daramirra&style=flat&color=6A54DF&label=Hello%20Visitors!"/>
 </a>
 </p>
 <br>
