@@ -7,7 +7,7 @@
 
 ## What am I currently up to?
 
-:shamrock: *I have finished the course from **[QA.GURU school](https://qa.guru)** and successfully completed **[graduation work](https://github.com/daramirra/qaGuruDiploma)**. In the course program I studied the tools and practices of test automation, including:*
+:shamrock: *Currently I’m interesting test automation and starting to apply automation in my work. I have finished the course from **[QA.GURU school](https://qa.guru)** and successfully completed **[graduation work](https://github.com/daramirra/qaGuruDiploma)**. In the course program I studied the tools and practices of test automation, including:*
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-20793B?logo=java&style=flat">
