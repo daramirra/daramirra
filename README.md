@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=8B5DDF&font=Knewave&size=35&center=true&vCenter=true&lines=Daria+Lapshinova;QA+engineer">
 </p>
 
-:heavy_check_mark: *I’m having a 10+ years of experience in information technology industry. Currently I am working **QA engineer**. I like to be involved in all stages of software development and provide customers with a quality product!*
+:heavy_check_mark: *I’m having a 10+ years of experience in information technology industry. Currently I’m working **QA engineer**. I like to be involved in all stages of software development and provide customers with a quality product!*
 
 ## What am I currently up to?
 
