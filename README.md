@@ -89,7 +89,7 @@
 
 [<img title="Github" alt="daramirra | Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/daramirra)
 [<img title="Telegram" alt="daramirra | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/daramirra) 
-[<img title="Instagram" alt="daramirra | Instagram" width="30px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png">](https://www.instagram.com/daramira)
+[<img title="Instagram" alt="Instagram | Instagram" width="30px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png">](https://www.instagram.com/)
 
 <p align="left">
 <a href="https://komarev.com/ghpvc/?username=daramirra&style=flat&color=6A54DF&label=Hello%20Visitors!">
