@@ -1,6 +1,6 @@
 <!--
 - ⚡⚡⚡  Уважаемые однокурсники! 
-Если вам что-то приглянулось в моем оформлении и вы решили это что-то повзаимствовать, то не поленитесь оставить звездочку в благодарность за вдохновение )) 
+Если вам что-то приглянулось в моем оформлении и вы решили это что-то повзаимствовать, то не стесняйтесь оставить звездочку в благодарность за вдохновение )) 
 -->
 
 # Hi there :herb: Wellcome to my GitHub :purple_heart:
@@ -78,7 +78,8 @@
   </a>
 </p>
 
-<img width="65%" title="|Customized by daramirra|" align="right" alt="Github" src="images/daramirra_git-headerr.svg"/>
+<img width="65%" title="|Customized by daramirra| Уважаемые однокурсники! 
+Если вам что-то приглянулось в моем оформлении и вы решили это что-то повзаимствовать, то не стесняйтесь оставить звездочку в благодарность за вдохновение!" align="right" alt="Github" src="images/daramirra_git-headerr.svg"/>
 
 :mushroom:  <code><strong>*Cooking*</strong></code>
 
