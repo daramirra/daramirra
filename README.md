@@ -23,7 +23,7 @@
   <img title="customized by daramirra" src="https://img.shields.io/badge/-JUnit5-6A54DF?logo=junit5&style=flatn&logoColor=white">
   <img title="customized by daramirra" src="https://img.shields.io/badge/-Allure Report-20793B?&style=flat">
   <img title="customized by daramirra" src="https://img.shields.io/badge/-Allure TestOps-6A54DF?&style=flat">
-  <img title="customized by daramirra" src="https://img.shields.io/badge/-Telegram%20(notifications)-20793B?logo=Telegram&style=flatn">
+  <img title="customized by daramirra" src="https://img.shields.io/badge/-Telegram%20(notifications)-20793B?logo=Telegram&style=flat">
 </p>
 
 <div align="left">
