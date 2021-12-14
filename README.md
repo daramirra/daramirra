@@ -102,6 +102,7 @@
 <p align="left">
 <a href="https://komarev.com/ghpvc/?username=daramirra&style=flat&color=6A54DF&label=Hello%20Visitors!">
   <img title="|Customized by daramirra|" src="https://komarev.com/ghpvc/?username=daramirra&style=flat&color=6A54DF&label=Hello%20Visitors!"/>
+  <img title="|Customized by daramirra|" alt="GitHub watchers" src="https://img.shields.io/github/watchers/daramirra/daramirra?color=6A54DF&logo=github">
 </a>
 </p>
 <br>
