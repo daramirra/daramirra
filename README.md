@@ -41,14 +41,16 @@
   <a href="https://github.com/daramirra?tab=repositories&sort=stargazers"><img width="140" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-20793B?style=for-the-badge&logoColor=white&logo=repo"></a>
 </p>
 <p align="right">
-  <h2><img width="45" src="images/daramirra_contact3.gif">Languages and tools<img align="right" title="My Github Stats" width="35"  src="images/daramirra_stats.webp"></h2>
-<br>
-<a>
-  <img width="50%" align="right" title="|Customized by daramirra|" alt="My Github Stats |Customized by daramirra|" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=27A438&include_all_commits=true&theme=buefy&hide_border=true">
-</a>
+  <h2><img width="45" src="images/daramirra_contact3.gif">Languages and tools<img align="right" title="My Github Stats" width="35" src="images/daramirra_stats.webp"></h2>
 </p>
 
-<p  align="left">
+<a><img width="55%" align="right" alt="Daria Lapshinova Github Stats" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=27A438&include_all_commits=true&theme=buefy&hide_border=true"></a>
+<a><img width="46%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=daramirra&theme=github-light&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=9639DD&ring=9639DD&background=FFFFFF00&border=237D41F8&fire=11880DAB&sideNums=3B6FDDA9&currStreakLabel=237D41F8&currStreakNum=237D41B8&sideLabels=237D41F8&dates=7F30BBCF)"></a>
+
+<!-- <a><img width="28%" align="right" alt="Daria Lapshinova Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true"></a>-->
+<a><img width="60%" align="right" alt="Github" src="images/daramirra_git-headerr.svg"/></a>
+
+<p align="left">
    
   <code><img width="5%" title="IntelliJ IDEA" src="images/daramirra_Intelij_IDEA.svg"></code>
   <code><img width="5%" title="Java" src="images/daramirra_Java.svg"></code>
@@ -60,7 +62,7 @@
   <code><img width="5%" title="Browserstack" src="images/daramirra_Browserstack.svg"></code>
   <code><img width="5%" title="Gradle" src="images/daramirra_Gradle.svg"></code>
   <code><img width="5%" title="JUnit5" src="images/daramirra_junit5.svg"></code>
-  <code><img width="5%" title="Jenkins" src="images/daramirra_Jenkins.svg"></code>
+  <code><img width="5%" title="Jenkins" src="images/daramirra_Jenkins.svg"></code> 
   
   <code><img width="5%" title="Selenoid" src="images/daramirra_selenoid.svg"></code>
   <code><img width="5%" title="Docker" src="images/daramirra_Docker.svg"></code>
@@ -72,14 +74,6 @@
 </p>
 
 ### :open_umbrella: When I'm not testing you can find me:
-<p align="right">
-  <a>
-    <img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true">
-  </a>
-</p>
-
-<img width="65%" title="|Customized by daramirra| Уважаемые однокурсники! 
-Если вам что-то приглянулось в моем оформлении и вы решили это что-то повзаимствовать, то не стесняйтесь оставить звездочку в благодарность за вдохновение!" align="right" alt="Github" src="images/daramirra_git-headerr.svg"/>
 
 :mushroom:  <code><strong>*Cooking*</strong></code>
 
@@ -102,18 +96,13 @@
 <p align="left">
 <a href="https://komarev.com/ghpvc/?username=daramirra&style=flat&color=6A54DF&label=Hello%20Visitors!">
   <img title="|Customized by daramirra|" src="https://komarev.com/ghpvc/?username=daramirra&style=flat&color=6A54DF&label=Hello%20Visitors!"/>
-  <img title="|Customized by daramirra|" alt="GitHub watchers" src="https://img.shields.io/github/watchers/daramirra/daramirra?color=6A54DF&logo=github">
 </a>
 </p>
-<br>
 <hr>
 <p align="center">
   <img title="|Customized by daramirra|" src="https://github.com/daramirra/daramirra/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-<p align="center">
-  <img title="|Customized by daramirra|" src="https://readme-typing-svg.herokuapp.com?color=6A54DF&font=cursive&size=20&center=true&vCenter=true&lines=Choose+not+a+life+of+imitation">
-</p>
 
 <!--
 | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&line_height=20&layout=compact&theme=buefy&hide_border=true" /></a> |
