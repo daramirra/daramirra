@@ -15,15 +15,15 @@
 :shamrock: *Currently I’m interesting test automation and starting to apply automation in my work. I have finished the course from **[QA.GURU school](https://qa.guru)** and successfully completed **[graduation work](https://github.com/daramirra/qaGuruDiploma)**. In the course program I studied the tools and practices of test automation, including:*
 
 <p align="center">
-  <img title="customized by daramirra" src="https://img.shields.io/badge/-Java-20793B?logo=java&style=flat">
-  <img title="customized by daramirra" src="https://img.shields.io/badge/-Selenide-6A54DF?&style=flat">
-  <img title="customized by daramirra" src="https://img.shields.io/badge/-Selenoid-20793B?&style=flat">
-  <img title="customized by daramirra" src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=flat">
-  <img title="customized by daramirra" src="https://img.shields.io/badge/-Jenkins-20793B?logo=Jenkins&style=flatn&logoColor=white">
-  <img title="customized by daramirra" src="https://img.shields.io/badge/-JUnit5-6A54DF?logo=junit5&style=flatn&logoColor=white">
-  <img title="customized by daramirra" src="https://img.shields.io/badge/-Allure Report-20793B?&style=flat">
-  <img title="customized by daramirra" src="https://img.shields.io/badge/-Allure TestOps-6A54DF?&style=flat">
-  <img title="customized by daramirra" src="https://img.shields.io/badge/-Telegram%20(notifications)-20793B?logo=Telegram&style=flat">
+  <img width="70" title="customized by daramirra" src="https://img.shields.io/badge/-Java-20793B?logo=java&style=for-the-badge">
+  <img width="80" title="customized by daramirra" src="https://img.shields.io/badge/-Selenide-6A54DF?&style=for-the-badge">
+  <img width="83" title="customized by daramirra" src="https://img.shields.io/badge/-Selenoid-20793B?&style=for-the-badge">
+  <img width="85" title="customized by daramirra" src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=for-the-badge">
+  <img width="90" title="customized by daramirra" src="https://img.shields.io/badge/-Jenkins-20793B?logo=Jenkins&style=for-the-badge&logoColor=white">
+  <img width="83" title="customized by daramirra" src="https://img.shields.io/badge/-JUnit5-6A54DF?logo=junit5&style=for-the-badge&logoColor=white">
+  <img width="120" title="customized by daramirra" src="https://img.shields.io/badge/-Allure Report-20793B?&style=for-the-badge">
+  <img width="125" title="customized by daramirra" src="https://img.shields.io/badge/-Allure TestOps-6A54DF?&style=for-the-badge">
+  <img width="140" title="customized by daramirra" src="https://img.shields.io/badge/-Telegram%20(Bot)-20793B?logo=Telegram&style=for-the-badge">
 </p>
 
 <div align="left">
@@ -92,10 +92,9 @@
 [<img title="Github" alt="daramirra | Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/daramirra)
 [<img title="Telegram" alt="daramirra | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/daramirra) 
 [<img title="Instagram" alt="daramirra | Instagram" width="30px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png">](https://www.instagram.com/)
-
 <p align="left">
-<a href="https://komarev.com/ghpvc/?username=daramirra&style=flat&color=6A54DF&label=Hello%20Visitors!">
-  <img title="|Customized by daramirra|" src="https://komarev.com/ghpvc/?username=daramirra&style=flat&color=6A54DF&label=Hello%20Visitors!"/>
+<a href="https://komarev.com/ghpvc/?username=daramirra&style=for-the-badge&color=6A54DF&label=Hello%20Visitors!">
+  <img title="|Customized by daramirra|" src="https://komarev.com/ghpvc/?username=daramirra&style=for-the-badge&color=6A54DF&label=Hello%20Visitors!"/>
 </a>
 </p>
 <hr>
