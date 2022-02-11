@@ -15,15 +15,15 @@
 :shamrock: *Currently I’m interesting test automation and starting to apply automation in my work. I have finished the course from **[QA.GURU school](https://qa.guru)** and successfully completed **[graduation work](https://github.com/daramirra/qaGuruDiploma)**. In the course program I studied the tools and practices of test automation, including:*
 
 <p align="center">
-  <img width="70" title="customized by daramirra" src="https://img.shields.io/badge/-Java-20793B?logo=java&style=for-the-badge">
-  <img width="80" title="customized by daramirra" src="https://img.shields.io/badge/-Selenide-6A54DF?&style=for-the-badge">
-  <img width="83" title="customized by daramirra" src="https://img.shields.io/badge/-Selenoid-20793B?&style=for-the-badge">
-  <img width="85" title="customized by daramirra" src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=for-the-badge">
-  <img width="90" title="customized by daramirra" src="https://img.shields.io/badge/-Jenkins-20793B?logo=Jenkins&style=for-the-badge&logoColor=white">
-  <img width="83" title="customized by daramirra" src="https://img.shields.io/badge/-JUnit5-6A54DF?logo=junit5&style=for-the-badge&logoColor=white">
-  <img width="120" title="customized by daramirra" src="https://img.shields.io/badge/-Allure Report-20793B?&style=for-the-badge">
-  <img width="125" title="customized by daramirra" src="https://img.shields.io/badge/-Allure TestOps-6A54DF?&style=for-the-badge">
-  <img width="140" title="customized by daramirra" src="https://img.shields.io/badge/-Telegram%20(Bot)-20793B?logo=Telegram&style=for-the-badge">
+  <img width="65" title="customized by daramirra" src="https://img.shields.io/badge/-Java-20793B?logo=java&style=for-the-badge">
+  <img width="78" title="customized by daramirra" src="https://img.shields.io/badge/-Selenide-6A54DF?&style=for-the-badge">
+  <img width="78" title="customized by daramirra" src="https://img.shields.io/badge/-Selenoid-20793B?&style=for-the-badge">
+  <img width="83" title="customized by daramirra" src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=for-the-badge">
+  <img width="86" title="customized by daramirra" src="https://img.shields.io/badge/-Jenkins-20793B?logo=Jenkins&style=for-the-badge&logoColor=white">
+  <img width="78" title="customized by daramirra" src="https://img.shields.io/badge/-JUnit5-6A54DF?logo=junit5&style=for-the-badge&logoColor=white">
+  <img width="115" title="customized by daramirra" src="https://img.shields.io/badge/-Allure Report-20793B?&style=for-the-badge">
+  <img width="120" title="customized by daramirra" src="https://img.shields.io/badge/-Allure TestOps-6A54DF?&style=for-the-badge">
+  <img width="135" title="customized by daramirra" src="https://img.shields.io/badge/-Telegram%20(Bot)-20793B?logo=Telegram&style=for-the-badge">
 </p>
 
 <div align="left">
