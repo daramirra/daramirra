@@ -5,7 +5,7 @@
 
 # Hi there :herb: Wellcome to my GitHub :purple_heart:
 <p align="center">
-  <img title="|Customized by daramirra|" src="https://readme-typing-svg.herokuapp.com?color=8B5DDF&font=Knewave&size=35&center=true&vCenter=true&lines=Daria+Lapshinova;QA+engineer">
+  <img title="|Customized by Daria Lapshinova|" src="https://readme-typing-svg.herokuapp.com?color=8B5DDF&font=Knewave&size=35&center=true&vCenter=true&lines=Daria+Lapshinova;QA+engineer">
 </p>
 
 :heavy_check_mark: *I’m having a 10+ years of experience in information technology industry. Currently I’m working **QA engineer**. I like to be involved in all stages of software development and provide customers with a quality product!*
@@ -44,7 +44,7 @@
   <h2><img width="45" src="images/daramirra_contact3.gif">Languages and tools<img align="right" title="My Github Stats" width="35" src="images/daramirra_stats.webp"></h2>
 </p>
 
-<a><img width="55%" align="right" alt="Daria Lapshinova Github Stats" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=27A438&include_all_commits=true&theme=buefy&hide_border=true"></a>
+<a><img width="53%" align="right" title="customized by Daria Lapshinova" alt="Daria Lapshinova Github Stats" src="https://github-stats-alpha.vercel.app/api/?username=daramirra&cc=FFFFFF&tc=5725DD&ic=27A438&bc=FFFFFF"></a>
 <a><img width="46%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=daramirra&theme=github-light&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=9639DD&ring=9639DD&background=FFFFFF00&border=237D41F8&fire=11880DAB&sideNums=3B6FDDA9&currStreakLabel=237D41F8&currStreakNum=237D41B8&sideLabels=237D41F8&dates=7F30BBCF)"></a>
 
 <!-- <a><img width="28%" align="right" alt="Daria Lapshinova Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&layout=compact&theme=buefy&hide_border=true"></a>-->
