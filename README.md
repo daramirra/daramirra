@@ -1,9 +1,9 @@
 <!--
 - ⚡⚡⚡  Уважаемые однокурсники! 
 Если вам что-то приглянулось в моем оформлении и вы решили это что-то повзаимствовать, то не стесняйтесь оставить звездочку в благодарность за вдохновение )) 
-Hi&nbsp;there&nbsp;:herb:&nbsp;Wellcome&nbsp;to&nbsp;my&nbsp;GitHub&nbsp;:purple_heart:
--->
 - :herb: :purple_heart:
+-->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=240&section=header&text=Hi%20there!&fontAlignY=35&fontSize=60&desc=Wellcome%20to%20my%20GitHub&descAlignY=60&descSize=50&animation=twinkling&fontColor=E9E9E9F3&descAlign=60&fontAlign=25)
 
 <p align="center">
