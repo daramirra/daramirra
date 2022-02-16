@@ -3,8 +3,7 @@
 Если вам что-то приглянулось в моем оформлении и вы решили это что-то повзаимствовать, то не стесняйтесь оставить звездочку в благодарность за вдохновение )) 
 Hi&nbsp;there&nbsp;:herb:&nbsp;Wellcome&nbsp;to&nbsp;my&nbsp;GitHub&nbsp;:purple_heart:
 -->
-
-
+:herb: :purple_heart:
 # Hi there :herb: Wellcome to my GitHub :purple_heart:
 <p align="center">
   <img title="|Customized by Daria Lapshinova|" src="https://readme-typing-svg.herokuapp.com?color=8B5DDF&font=Knewave&size=35&center=true&vCenter=true&lines=Daria+Lapshinova;QA+engineer">
