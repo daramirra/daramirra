@@ -98,8 +98,8 @@ Hi&nbsp;there&nbsp;:herb:&nbsp;Wellcome&nbsp;to&nbsp;my&nbsp;GitHub&nbsp;:purple
 <a href="https://komarev.com/ghpvc/?username=daramirra&style=for-the-badge&color=6A54DF&label=Hello%20Visitors!">
   <img title="|Customized by daramirra|" src="https://komarev.com/ghpvc/?username=daramirra&style=for-the-badge&color=6A54DF&label=Hello%20Visitors!"/>
 </a>
-  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoona95&count_bg=%234D4D4D&title_bg=%23723EDC&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false">
-  <img title="|Customized by daramirra|" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoona95&count_bg=%234D4D4D&title_bg=%23723EDC&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
+  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%daramirra&count_bg=%234D4D4D&title_bg=%23723EDC&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false">
+  <img title="|Customized by daramirra|" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%daramirra&count_bg=%234D4D4D&title_bg=%23723EDC&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
 </a>
 </p>
 <hr>
