@@ -3,8 +3,9 @@
 Если вам что-то приглянулось в моем оформлении и вы решили это что-то повзаимствовать, то не стесняйтесь оставить звездочку в благодарность за вдохновение )) 
 Hi&nbsp;there&nbsp;:herb:&nbsp;Wellcome&nbsp;to&nbsp;my&nbsp;GitHub&nbsp;:purple_heart:
 -->
-<!-- :herb: :purple_heart: -->
-# Hi there :herb: Wellcome to my GitHub :purple_heart:
+- :herb: :purple_heart:
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=240&section=header&text=Hi%20there!&fontAlignY=35&fontSize=60&desc=Wellcome%20to%20my%20GitHub&descAlignY=60&descSize=50&animation=twinkling&fontColor=E9E9E9F3&descAlign=60&fontAlign=25)
+
 <p align="center">
   <img title="|Customized by Daria Lapshinova|" src="https://readme-typing-svg.herokuapp.com?color=8B5DDF&font=Knewave&size=35&center=true&vCenter=true&lines=Daria+Lapshinova;QA+engineer">
 </p>
@@ -94,12 +95,13 @@ Hi&nbsp;there&nbsp;:herb:&nbsp;Wellcome&nbsp;to&nbsp;my&nbsp;GitHub&nbsp;:purple
 [<img title="Telegram" alt="daramirra | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/daramirra) 
 [<img title="Instagram" alt="daramirra | Instagram" width="30px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png">](https://www.instagram.com/)
 <p align="left">
-<a href="https://komarev.com/ghpvc/?username=daramirra&style=for-the-badge&color=6A54DF&label=Hello%20Visitors!">
-  <img title="|Customized by daramirra|" src="https://komarev.com/ghpvc/?username=daramirra&style=for-the-badge&color=6A54DF&label=Hello%20Visitors!"/>
+  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%daramirra&count_bg=%234D4D4D&title_bg=%23723EDC&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+  <img title="|Customized by daramirra|" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%daramirra&count_bg=%234D4D4D&title_bg=%23723EDC&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </a>
-  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%daramirra&count_bg=%234D4D4D&title_bg=%23723EDC&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false">
-  <img title="|Customized by daramirra|" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%daramirra&count_bg=%234D4D4D&title_bg=%23723EDC&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
+<a href="https://komarev.com/ghpvc/?username=daramirra&style=for-the-badge&color=6A54DF&label=visitors">
+  <img title="|Customized by daramirra|" src="https://komarev.com/ghpvc/?username=daramirra&style=for-the-badge&color=6A54DF&label=visitors"/>
 </a>
+
 </p>
 <hr>
 <p align="center">
