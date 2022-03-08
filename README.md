@@ -1,6 +1,5 @@
 <!--
-- ⚡⚡⚡  Уважаемые однокурсники! 
-Хватит передирать мое оформление профиля! 
+- ⚡⚡⚡ Не передирай мое оформление профиля! 
 ⚡ Copycat list (мои "близняшки"):
 https://github.com/andreyzavrichko
 https://github.com/Andrey2694
@@ -28,7 +27,7 @@ https://github.com/SaleevaMariia
   <img width="73" title="customized by daramirra" src="https://img.shields.io/badge/-Selenoid-20793B?&style=for-the-badge">
   <img width="75" title="customized by daramirra" src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=for-the-badge">
   <img width="80" title="customized by daramirra" src="https://img.shields.io/badge/-Jenkins-20793B?logo=Jenkins&style=for-the-badge&logoColor=white">
-  <img width="74" title="customized by daramirra" src="https://img.shields.io/badge/-JUnit5-6A54DF?logo=junit5&style=for-the-badge&logoColor=white">
+  <img width="74" title="customized by daramirra" src="https://img.shields.io/badge/-JUnit'5-6A54DF?logo=junit5&style=for-the-badge&logoColor=white">
   <img width="105" title="customized by daramirra" src="https://img.shields.io/badge/-Allure Report-20793B?&style=for-the-badge">
   <img width="110" title="customized by daramirra" src="https://img.shields.io/badge/-Allure TestOps-6A54DF?&style=for-the-badge">
   <img width="125" title="customized by daramirra" src="https://img.shields.io/badge/-Telegram%20(Bot)-20793B?logo=Telegram&style=for-the-badge">
