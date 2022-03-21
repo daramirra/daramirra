@@ -97,8 +97,7 @@ https://github.com/SaleevaMariia
 </div>
 
 [<img title="Github" alt="daramirra | Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/daramirra)
-[<img title="Telegram" alt="daramirra | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/daramirra) 
-[<img title="Instagram" alt="daramirra | Instagram" width="30px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png">](https://www.instagram.com/)
+[<img title="Telegram" alt="daramirra | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/daramirra)
 <p align="left">
   <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%daramirra&count_bg=%234D4D4D&title_bg=%23723EDC&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true">
   <img width="135" title="|Customized by daramirra|" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%daramirra&count_bg=%234D4D4D&title_bg=%23723EDC&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
