@@ -108,9 +108,13 @@
 
  ## Своровавший мое оформление, автоматом попадает в лист позора!
  Список "одаренных":
+ 
  https://github.com/amas12
+ 
  https://github.com/Andrey2694
+ 
  https://github.com/andreyzavrichko
+ 
  https://github.com/sonmeniya
 
 <!--
