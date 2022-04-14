@@ -116,14 +116,13 @@ https://github.com/amas12
  ## Своровавший мое оформление, автоматом попадает в лист позора!
  Список "одаренных":
  
- https://github.com/amas12
+ https://github.com/daramirra/amas12
  
- https://github.com/Andrey2694
+https://github.com/daramirra/Andrey2694
  
- https://github.com/andreyzavrichko
+https://github.com/daramirra/andreyzavrichko
  
- https://github.com/sonmeniya
-
+https://github.com/daramirra/sonmeniya
 <!--
 | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&line_height=20&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
