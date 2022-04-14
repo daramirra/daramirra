@@ -1,5 +1,12 @@
 <!--
 - ⚡⚡⚡ Не передирай мое оформление профиля! 
+⚡ Copycat list (мои "близняшки"):
+https://github.com/andreyzavrichko
+https://github.com/Andrey2694
+https://github.com/sonmeniya
+https://github.com/Vasili888-QA
+https://github.com/SaleevaMariia
+https://github.com/amas12
 ...
 -->
 
