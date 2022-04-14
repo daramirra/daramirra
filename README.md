@@ -106,6 +106,12 @@
   <img title="|Customized by daramirra|" src="https://github.com/daramirra/daramirra/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
+ ## Своровавший мое оформление, автоматом попадает в лист позора!
+ Список "одаренных":
+ https://github.com/amas12
+ https://github.com/Andrey2694
+ https://github.com/andreyzavrichko
+ https://github.com/sonmeniya
 
 <!--
 | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&line_height=20&layout=compact&theme=buefy&hide_border=true" /></a> |
