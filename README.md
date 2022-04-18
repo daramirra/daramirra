@@ -113,16 +113,20 @@ https://github.com/amas12
   <img title="|Customized by daramirra|" src="https://github.com/daramirra/daramirra/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
- ## Своровавший мое оформление, автоматом попадает в лист позора!
- Список "одаренных":
- 
- https://github.com/daramirra/amas12
- 
-https://github.com/daramirra/Andrey2694
- 
-https://github.com/daramirra/andreyzavrichko
- 
-https://github.com/daramirra/sonmeniya
+<details>
+<summary> <h2> Сцена после титров ⇩ </h2> </summary>
+  
+**Не воруй мое оформление, найду и съем! Не приветствую такие вещи:**
+  
++ https://github.com/daramirra/amas12
+  
++ https://github.com/daramirra/Andrey2694
+  
++ https://github.com/daramirra/andreyzavrichko
+  
++ https://github.com/daramirra/sonmeniya 
+</details>
+
 <!--
 | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daramirra&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/daramirra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daramirra&line_height=20&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
