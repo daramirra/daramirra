@@ -23,7 +23,7 @@ https://github.com/amas12
 :shamrock: *Currently I’m interesting test automation and starting to apply automation in my work. I have finished the course from **[QA.GURU school](https://qa.guru)** and successfully completed **[graduation work](https://github.com/daramirra/qaGuruDiploma)**. In the course program I studied the tools and practices of test automation, including:*
 
 <p align="center">
-  <img width="60" title="customized by daramirra" src="https://img.shields.io/badge/-Java-20793B?logo=java&style=for-the-badge">
+  <img width="47" title="customized by daramirra" src="https://img.shields.io/badge/-Java-20793B?logo=java&style=for-the-badge">
   <img width="72" title="customized by daramirra" src="https://img.shields.io/badge/-Selenide-6A54DF?&style=for-the-badge">
   <img width="73" title="customized by daramirra" src="https://img.shields.io/badge/-Selenoid-20793B?&style=for-the-badge">
   <img width="75" title="customized by daramirra" src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=for-the-badge">
@@ -114,9 +114,9 @@ https://github.com/amas12
 </p>
 
 <details>
-<summary> <h2> Сцена после титров ⇩ </h2> </summary>
+<summary> <h2> :smiling_imp: ⇩ </h2> </summary>
   
-**Не воруй мое оформление, найду и съем! Не приветствую такие вещи:**
+:skull_and_crossbones: 	**Не воруй мое оформление, найду и съем! Не приветствую такие вещи:**
   
 + https://github.com/daramirra/amas12
   
